@@ -12,8 +12,14 @@ class Computadores(Producto):
                 'RAM': self.ram,
                 'GPU': self.gpu }
         datos.update(computadores_datos)
-        lista.append(datos)    
-    
+        lista.append(datos) 
+    def listar_computadores(self, lista = computadores):
+        computadores = super().lista(lista)
+        print(computadores)
+
+
+def lista():
+    return computadores
 
 
 """ x = Computadores('Lenovo', 1200, 'Intel', '16GB', 'RTX3050')

@@ -16,5 +16,7 @@ class Celular(Producto):
     def listar_celulares(self, lista = celulares):
         celulares = super().lista(lista)
         print(celulares)
+def lista():
+    return celulares
 """ x = Celular('Xiaomi', 200, 'SnapDragon', 8, 5.9)
 print(celulares) """

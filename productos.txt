@@ -1,0 +1,5 @@
+{'MARCA': 'Lenovo', 'PRECIO': 1000, 'CPU': 'Intel', 'RAM': 16, 'GPU': 'Nvidia'} 
+{'MARCA': 'Hp', 'PRECIO': 800, 'CPU': 'Ryzen', 'RAM': 8, 'GPU': 'Intel'} 
+{'MARCA': 'Xiaomi', 'PRECIO': 200, 'CARGA': '5000mA', 'RAM': 4, 'Tamaño': 6.0} 
+{'MARCA': 'Lenovo', 'PRECIO': 1000, 'CPU': 'Intel', 'RAM': 16, 'GPU': 'Nvidia'} 
+{'MARCA': 'Hp', 'PRECIO': 800, 'CPU': 'Ryzen', 'RAM': 8, 'GPU': 'Intel'} 

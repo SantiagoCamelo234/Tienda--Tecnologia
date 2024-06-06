@@ -14,9 +14,11 @@ class Videojuegos(Producto):
         datos.update(videojuegos_datos)
         lista.append(datos)    
     def listar_videojuegos(self, lista = videojuegos):
-        videojuegos = super().listar(lista)
+        videojuegos = super().lista(lista)
         print(videojuegos)
         
+def lista():
+    return videojuegos
         
 
 """ x = Videojuegos('Insomniac', 120, 'SpiderMan', 'Superheroes', 'PS5')
